@@ -2,49 +2,48 @@
 
 ![Record Status](https://img.shields.io/badge/Status-Limca%20Book%20of%20Records%20Applicant-gold?style=for-the-badge)
 ![DOI Count](https://img.shields.io/badge/dynamic/json?label=Total%20Research%20DOIs&query=$.total_dois&url=https://raw.githubusercontent.com/HelixOriginator/Kallol-Chakrabarti-Signature-Novelty-Record-2026/main/metadata.json&color=blue&style=for-the-badge)
-![Files Count](https://img.shields.io/badge/dynamic/json?label=Verified%20Research%20Files&query=$.total_files&url=https://raw.githubusercontent.com/HelixOriginator/Kallol-Chakrabarti-Signature-Novelty-Record-2026/main/metadata.json&color=orange&style=for-the-badge)
+![Avg Novelty Score](https://img.shields.io/badge/Avg_Novelty-94.9%25-green?style=for-the-badge)
 
 ## 📌 Executive Summary
-**Official Signature Novelty Archive of Kallol Chakrabarti (Helix Originator).** This central evidence ledger documents **264 original research DOIs**, with **241 high-impact files** (PDF, Word, PPT) deployed across a vast interdisciplinary landscape of governance, science, and policy. This repository serves as the **Primary Verification Hub** for the 2026 Limca Book of Records submission.
+[cite_start]**Official Signature Novelty Archive of Kallol Chakrabarti (Helix Originator).** This central evidence ledger documents a world-record-scale body of work comprising **256+ original research DOIs** [cite: 4, 89] [cite_start]and **190+ frameworks** [cite: 13] [cite_start]developed with zero institutional dependence[cite: 22]. [cite_start]As of April 2026, this repository serves as the **Primary Verification Hub** for the Limca Book of Records, showcasing a citizen-built national knowledge infrastructure for **Viksit Bharat 2047**[cite: 32, 138].
 
 ---
 
-## 🏛️ The Helix Originator Signature
-My research represents a "Signature of Novelty" characterized by the synthesis of **Dharmic Analytical Frameworks** and **Modern Algorithmic Governance**. The work is categorized into three primary pillars:
+## 🏛️ The Helix Originator Signature: 4 Pillars of Contribution
+[cite_start]My research represents a "Signature of Novelty" (94.9% average novelty score [cite: 11, 93]) characterized by the synthesis of civilisational wisdom and futuristic technology.
 
-### 1. Digital Sovereign Systems & AI Governance
-* **DPTAS:** World-first AI system for real-time tracking of political promises.
-* **The Algorithmic Sandwich:** A novel layered protocol for ethical civic AI.
-* **Karma Index:** Integration of universal analytical principles into algorithmic oversight.
+### 1. AI Governance & Civic Technology
+* [cite_start]**Civic Reflexivity Engines:** World-first framework for democratic AI governance (DOI: 10.5281/zenodo.18524801)[cite: 46, 100].
+* [cite_start]**Perfect Novelty:** 4 articles verified at 100% novelty by DeSci Labs, Switzerland[cite: 48, 96].
+* [cite_start]**Policy Clarity Architecture:** India's first AI-powered, non-partisan clarification infrastructure for PMAY and PM-KISAN[cite: 118, 132, 135].
 
-### 2. Interdisciplinary Policy Architecture
-* **VAFGPE Framework:** Applying Vedic logic to modern policing and education.
-* **Civic Reflexivity Engines:** Frameworks for society-wide self-correction through digital transparency.
-* **Viksit Bharat 2047:** Comprehensive ready-reckoners submitted to the PMO/MyGov portal.
+### 2. Project Nano Banana (IP Democracy)
+* [cite_start]**Zero-Cost IP Protection:** A defensive publication framework enabling rural inventors and students to establish legally recognized Prior Art without filing fees[cite: 68, 72, 79].
+* [cite_start]**Recognition:** Shortlisted for the **National IP Awards 2025** by the Govt. of India[cite: 74, 161].
 
-### 3. Economic & Market Innovation
-* **The Dead Market Framework:** A novel re-evaluation of market stagnation metrics.
-* **Employment Shopping:** An AI-driven model reversing traditional labor market hierarchies.
+### 3. Rural & Bio-Integrated Development (BISV 3.0)
+* [cite_start]**Bio-Integrated Smart Villages:** Frameworks projecting 40-50% agricultural productivity gains and 70% fossil fuel reduction[cite: 53, 54, 55, 188].
+* [cite_start]**Quantum-Enhanced Bio-AI:** Utilizing quantum computing-AI hybrids for precision crop management[cite: 197, 198].
 
----
-
-## 📊 Evidence & Verification Ledger
-For auditors and researchers, the following directories and external links provide the "Audit Trail" for all 264 DOIs:
-
-* **[Main Research Hub](https://kallol-241-repositories.netlify.app/):** Centralized access to 241+ specialized repositories.
-* **[Helix Library Encyclopedia](https://helixoriginator.github.io/World-Largest-Independent-Digital-Encyclopedia-Helix-Library/):** A comprehensive knowledge base of independent frameworks.
-* **[DeSci Archive](https://helixoriginator.github.io/kallol-chakrabarti-ssrn-figshare-knowledgecommons-research/):** Academic timestamps via SSRN, Figshare, and Knowledge Commons.
+### 4. Civilisational Renaissance & Sanatan Dharma
+* [cite_start]**Sanatana Samyata:** World’s first comprehensive ready-reckoner and AI-accessible encyclopedia for decolonising knowledge systems[cite: 62, 145, 176].
 
 ---
 
-## 📅 Record Claim Timeline
-* **November 2024:** Registered Provisional Patent (No. 202411090481).
-* **February 2026:** Formal Policy Proposal submitted to PMO (MyGov).
-* **March 2026:** Shortlisted for National Intellectual Property Awards.
-* **April 15, 2026:** Official Filing for Limca Book of Records.
+## 🌍 Global Recognition & Impact
+* [cite_start]**UK Government Metascience Unit:** Invited domain expert informing research evaluation policy for G7 governments[cite: 170, 171].
+* [cite_start]**ILO (United Nations):** Research acknowledged as "Innovative" by the International Labour Review[cite: 166, 167].
+* [cite_start]**Academic Reach:** Indexed by Google Scholar, SSRN (Elsevier), and used by institutions like Harvard and Oxford[cite: 107, 109, 110, 181].
 
 ---
 
-> **Note to Auditors:** All metrics (DOI and File counts) are live-synchronized via the `metadata.json` master file within this repository to ensure real-time data integrity.
+## 📊 Verification Ledger & Custom AI Infrastructure
+* **[Opal AI Research App](https://opal.google/app/1Ms-1bHVXqp99u4B_uH7ejvWEa0ZXDk71):** A custom-architected interactive AI portal personally built to navigate the Helix Originator research ecosystem.
+* [cite_start]**[Viksit Bharat Governance Architecture](https://helixoriginator.github.io/Viksit-Bharat-2047-Governance-Architecture/)** [cite: 140]
+* [cite_start]**[Official Zenodo Archive](https://zenodo.org/records/18524801)** [cite: 104, 221]
+* [cite_start]**[Policy Clarifier Platforms](https://helixoriginator.github.io/pmay-policy-clarification-ai/)** [cite: 133]
 
-**Kallol Chakrabarti** *Global Independent Researcher | Helix Originator*
+---
+
+**Kallol Chakrabarti** | *Global Independent Researcher | ORCID: 0009-0007-4971-8936* [cite: 15, 220]
+[cite_start]*"Atmanirbhar Bharat is not just economic self-reliance — it is intellectual sovereignty."* [cite: 17, 21]
